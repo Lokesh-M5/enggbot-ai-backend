@@ -1,0 +1,16 @@
+{
+  "frontend developer": {
+    "salary": "6-15 LPA",
+    "demand": "High"
+  },
+
+  "full stack developer": {
+    "salary": "10-22 LPA",
+    "demand": "Very High"
+  },
+
+  "ai/ml engineer": {
+    "salary": "12-30 LPA",
+    "demand": "Medium"
+  }
+}
